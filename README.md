@@ -48,10 +48,10 @@
 
 ## 📜 Top Certifications
 
-- 🧠 **Neural Networks and Deep Learning** – *DeepLearning.AI* (Credential ID: `4VXW7RMCC33Q`)
-- 🌐 **The Data Science Profession** – *University of London* (Credential ID: `PZL4VXPB75ND`)
-- 📊 **Foundations: Data, Data, Everywhere** – *Google Digital Academy* (Credential ID: `5FV9ZMYXGLKU`)
-- 🐍 **Programming for Everybody (Getting Started with Python)** – *University of Michigan* (Credential ID: `O8RLHXBSRTPO`)
+- 🧠 **[Neural Networks and Deep Learning](https://drive.google.com/file/d/1w3SQ1fP9CdbPFbVIm0GYK8TvLQwBYWIz/view?usp=sharing)** – *DeepLearning.AI* (Credential ID: `4VXW7RMCC33Q`)
+- 🌐 **[The Data Science Profession](https://drive.google.com/file/d/1yNK_goox-Xy4iNOCkydKqVYlKM3FOJHG/view?usp=sharing)** – *University of London* (Credential ID: `PZL4VXPB75ND`)
+- 📊 **[Foundations: Data, Data, Everywhere](https://drive.google.com/file/d/1T5ZrJWMjHTB4rV8Oxa70gSAUwI-MUYJ4/view?usp=sharing)** – *Google Digital Academy* (Credential ID: `5FV9ZMYXGLKU`)
+- 🐍 **[Programming for Everybody (Getting Started with Python)](https://drive.google.com/file/d/1gHYiZ_OlguhXbwetbA72TWztDzZhCcia/view?usp=sharing)** – *University of Michigan* (Credential ID: `O8RLHXBSRTPO`)
 
 ---
 
