@@ -9,9 +9,9 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** Pursuing BS in Data Science at the Virtual University of Pakistan.
-- 💻 **Passion:** I love extracting meaning from numbers, automating boring tasks with Python, and training models.
-- 🧠 **Mindset:** Hooked on competitive programming, data hackathons, and complex logical problem-solving.
-- 🎯 **Current Goal:** Sharpening my core Data Science stack and open for exciting internship opportunities.
+- 💻 **Passion:** I love extracting meaning from numbers, automating tasks with Python, and working with data libraries.
+- 🧠 **Mindset:** Enthusiastic about competitive programming, hackathons, and complex logical problem-solving.
+- 🎯 **Current Goal:** Sharpening my core Data Science and Machine Learning stack for exciting remote opportunities.
 
 *I believe that data has a story to tell, and I’m here to build the models that listen.* ✨
 
@@ -37,6 +37,24 @@
 
 ---
 
+## What I'm Focused On 🎯
+
+- 🧠 Writing clean, optimized, and scalable Python code
+- 📊 Building data analysis and prediction models using Scikit-learn
+- 🏆 Practicing logic-based programming challenges and datasets
+- 💡 Deepening my core understanding of Database Management Systems
+
+---
+
+## 📜 Top Certifications
+
+- 🧠 **Neural Networks and Deep Learning** – *DeepLearning.AI* (Credential ID: `4VXW7RMCC33Q`)
+- 🌐 **The Data Science Profession** – *University of London* (Credential ID: `PZL4VXPB75ND`)
+- 📊 **Foundations: Data, Data, Everywhere** – *Google Digital Academy* (Credential ID: `5FV9ZMYXGLKU`)
+- 🐍 **Programming for Everybody (Getting Started with Python)** – *University of Michigan* (Credential ID: `O8RLHXBSRTPO`)
+
+---
+
 ## 📈 GitHub Report
 
 <p align="center">
@@ -51,7 +69,7 @@
 
 ## Let's Connect 🤝
 
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
-- 📬 Open to internships, collaborations, and brainstorming data ideas!
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/maria-aqdas-58171a347/)
+- 📬 Open to internships, collaborations, and learning opportunities!
 
 ⭐️ *If you like my journey, feel free to star my repositories!*
