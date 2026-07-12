@@ -73,12 +73,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
 
-<!-- Green Graph Summary Card -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maria-aqdas&theme=tokyonight" alt="GitHub Profile Details" />
-</p>
 
-<p align="center">
 
 ---
 
