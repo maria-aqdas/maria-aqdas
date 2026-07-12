@@ -57,24 +57,6 @@
 
 ## 📈 GitHub Report
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## Let's Connect 🤝
-
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/maria-aqdas-58171a347/)
-- 📬 Open to internships, collaborations, and learning opportunities!
-
-⭐️ *If you like my journey, feel free to star my repositories!*
-## 📈 GitHub Report
-
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -83,6 +65,14 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+## Let's Connect 🤝
+
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/maria-aqdas-58171a347/)
+- 📬 Open to internships, collaborations, and learning opportunities!
+
+⭐️ *If you like my journey, feel free to star my repositories!*
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-aqdas&theme=tokyonight" alt="GitHub Streak" />
