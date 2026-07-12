@@ -57,7 +57,6 @@
 
 ## 📈 GitHub Report
 
-
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -65,6 +64,25 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-aqdas&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&theme=tokyonight" alt="GitHub Contribution Graph" />
+</p>
+
+<!-- Green Graph Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maria-aqdas&theme=tokyonight" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+
+---
+
+
 
 ## Let's Connect 🤝
 
