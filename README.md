@@ -75,7 +75,6 @@
 ⭐️ *If you like my journey, feel free to star my repositories!*
 ## 📈 GitHub Report
 
-## 📈 GitHub Report
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
