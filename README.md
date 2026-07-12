@@ -73,11 +73,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maria-aqdas&theme=tokyonight" alt="GitHub Profile Details" />
+</p>
 
 ---
-
-
 
 ## Let's Connect 🤝
 
@@ -85,15 +85,3 @@
 - 📬 Open to internships, collaborations, and learning opportunities!
 
 ⭐️ *If you like my journey, feel free to star my repositories!*
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-aqdas&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&theme=tokyonight" alt="GitHub Contribution Graph" />
-</p>
-
----
-
