@@ -66,8 +66,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-aqdas&theme=tokyonight&timezone=Asia/Karachi" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-aqdas&theme=tokyonight&timezone=Asia/Karachi&v=1" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&theme=tokyonight" alt="GitHub Contribution Graph" />
