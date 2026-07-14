@@ -12,8 +12,22 @@
 - 💻 **Passion:** I love extracting meaning from numbers, automating tasks with Python, and working with data libraries.
 - 🧠 **Mindset:** Enthusiastic about competitive programming, hackathons, and complex logical problem-solving.
 - 🎯 **Current Goal:** Sharpening my core Data Science and Machine Learning stack for exciting remote opportunities.
+- 📅 **Work Ethic:** I upload and update files **daily** on GitHub, making 10-15 changes per file to ensure continuous progress.
 
-*I believe that data has a story to tell, and I’m here to build the models that listen.* ✨
+*I believe that data has a story to tell, and I'm here to build the models that listen.* ✨
+
+---
+
+## 📊 Daily GitHub Workflow
+
+I maintain an active GitHub presence by:
+
+- 📤 **Uploading files daily** to my repositories
+- ✏️ Making **10-15 modifications** per file (code + markdown)
+- 🔄 **Pushing updates** regularly to track progress
+- 📈 **Building a consistent contribution streak**
+
+> **Note:** GitHub counts **commits**, not uploads. Each file upload or modification creates a commit. Multiple changes in one upload = 1 commit. For maximum streak, consider committing multiple times throughout the day!
 
 ---
 
@@ -43,6 +57,7 @@
 - 📊 Building data analysis and prediction models using Scikit-learn
 - 🏆 Practicing logic-based programming challenges and datasets
 - 💡 Deepening my core understanding of Database Management Systems
+- 🔥 Maintaining a **daily GitHub contribution streak**
 
 ---
 
@@ -55,7 +70,7 @@
 
 ---
 
-## 📈 GitHub Report
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -65,10 +80,33 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<!-- 
+  ⚠️ IMPORTANT NOTE ABOUT GITHUB STREAK:
+  
+  GitHub tracks streaks based on COMMITS, not file uploads.
+  
+  How commits work:
+  - 1 file upload = 1 commit (even with 15 changes inside)
+  - 10 separate uploads = 10 commits (better for streak!)
+  
+  Why your 13-day work might show as 6-day streak:
+  - You worked 13 days but only committed on 6 of them
+  - Multiple changes in one upload still count as 1 commit
+  - Timezone differences can shift commit dates
+  
+  SOLUTION for accurate streak:
+  1. Make smaller, more frequent commits throughout the day
+  2. Commit after each logical change, not all at once
+  3. Use: git commit -m "Updated section X" for each change
+  4. Push multiple times per day
+  5. Set timezone: git config --global user.timezone "Asia/Karachi"
+-->
+
+## 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-aqdas&theme=tokyonight&timezone=Asia/Karachi&v=1" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&theme=tokyonight" alt="GitHub Contribution Graph" />
@@ -80,12 +118,33 @@
 
 ---
 
-## Let's Connect 🤝
+## 📌 Why Your Streak Shows Less Than Actual Work?
 
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/maria-aqdas-58171a347/)
-- 📬 Open to internships, collaborations, and learning opportunities!
+### The Truth About GitHub Contributions:
 
-⭐️ *If you like my journey, feel free to star my repositories!*
+| What You Do | How GitHub Sees It |
+|-------------|-------------------|
+| Upload 1 file with 15 changes | **1 commit** (1 contribution) |
+| Upload 5 files separately | **5 commits** (5 contributions) |
+| Make 15 changes over 3 hours | **1 commit** if all in one push |
+| Work 13 days continuously | **Only counts days with commits** |
 
-<!-- Bottom Wave Animation Spacer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
+### 🎯 The Fix:
+
+Instead of uploading once with 15 changes, try:
+
+```bash
+# Better approach for streak:
+git add file1.py
+git commit -m "Added data preprocessing function"
+git push
+
+# Make another change
+git add file2.py  
+git commit -m "Updated visualization code"
+git push
+
+# And another
+git add README.md
+git commit -m "Updated documentation"
+git push
