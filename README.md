@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-aqdas&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-aqdas&theme=tokyonight&timezone=Asia/Karachi" alt="GitHub Streak" />
 </p>
 
 <p align="center">
