@@ -85,3 +85,7 @@
 - 📬 Open to internships, collaborations, and learning opportunities!
 
 ⭐️ *If you like my journey, feel free to star my repositories!*
+
+
+<!-- Bottom Wave Animation Spacer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
