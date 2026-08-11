@@ -1,4 +1,4 @@
-<!-- HEADER BANNER (WARM BROWN / GOLD THEME) -->
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3D2314&height=220&section=header&text=Maria%20Aqdas&fontSize=60&fontColor=D2B48C&animation=fadeIn" width="100%" />
 </p>
@@ -39,7 +39,6 @@ Status:       Building, Competing & Open for Opportunities
       <p><i>"I believe every dataset has a story to tell, and I build the models that listen."</i> ✨</p>
     </td>
     <td width="45%" align="center">
-      <!-- WORKING FEMALE DEVELOPER VECTOR ILLUSTRATION -->
       <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--girl-programmer-coding-woman-pack-design-development-illustrations-6430776.png" width="90%" alt="Female Developer Illustration" />
     </td>
   </tr>
@@ -78,33 +77,21 @@ Status:       Building, Competing & Open for Opportunities
 
 ---
 
-## 🚀 Featured Project
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🏛️ **CivitasX** | Web-based policy decision analysis platform built for Devpost hackathons, utilizing LLMs to evaluate policy documents seamlessly. | `Python` `Streamlit` `Gemini API` |
-
----
-
-## 📜 Verified Certifications
-
-- 🧠 **[Neural Networks and Deep Learning](https://drive.google.com/file/d/1w3SQ1fP9CdbPFbVIm0GYK8TvLQwBYWIz/view?usp=sharing)** – *DeepLearning.AI* `(ID: 4VXW7RMCC33Q)`
-- 🌐 **[The Data Science Profession](https://drive.google.com/file/d/1yNK_goox-Xy4iNOCkydKqVYlKM3FOJHG/view?usp=sharing)** – *University of London* `(ID: PZL4VXPB75ND)`
-- 📊 **[Foundations: Data, Data, Everywhere](https://drive.google.com/file/d/1T5ZrJWMjHTB4rV8Oxa70gSAUwI-MUYJ4/view?usp=sharing)** – *Google Digital Academy* `(ID: 5FV9ZMYXGLKU)`
-- 🐍 **[Programming for Everybody (Python)](https://drive.google.com/file/d/1gHYiZ_OlguhXbwetbA72TWztDzZhCcia/view?usp=sharing)** – *University of Michigan* `(ID: O8RLHXBSRTPO)`
-
----
-
-## 📈 Analytics & Contribution Graph
+## 📈 Contribution Analytics & Graphs
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maria-aqdas&show_icons=true&theme=copper" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=copper" width="48%" />
 </p>
 
-<!-- BROWN CONTRIBUTION GRAPH WIDGET -->
+<!-- GOLDEN LINE CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&bg_color=2b1b17&color=d2b48c&line=8b5a2b&point=d2b48c&area=true&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&bg_color=1e1e1e&color=daa520&line=b8860b&point=ffd700&area=false&hide_border=true" width="98%" alt="Maria's Contribution Graph" />
+</p>
+
+<!-- BOXES CONTRIBUTION GRID (SNAKE GAME) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maria-aqdas/maria-aqdas/output/github-contribution-grid-snake.svg" width="98%" alt="Boxes Contribution Grid" />
 </p>
 
 ---
