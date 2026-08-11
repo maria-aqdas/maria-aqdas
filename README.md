@@ -1,6 +1,6 @@
-<!-- TOP BANNER (BROWN / GOLD THEME) -->
+<!-- HEADER BANNER (WARM BROWN / GOLD THEME) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3d2314&height=200&section=header&text=Maria%20Aqdas&fontSize=60&fontColor=d2b48c&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3D2314&height=220&section=header&text=Maria%20Aqdas&fontSize=60&fontColor=D2B48C&animation=fadeIn" width="100%" />
 </p>
 
 <!-- DYNAMIC TYPING SVG -->
@@ -39,8 +39,8 @@ Status:       Building, Competing & Open for Opportunities
       <p><i>"I believe every dataset has a story to tell, and I build the models that listen."</i> ✨</p>
     </td>
     <td width="45%" align="center">
-      <!-- WORKING FEMALE DEVELOPER ILLUSTRATION -->
-      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/person.svg" width="60%" alt="Developer Icon" />
+      <!-- WORKING FEMALE DEVELOPER VECTOR ILLUSTRATION -->
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--girl-programmer-coding-woman-pack-design-development-illustrations-6430776.png" width="90%" alt="Female Developer Illustration" />
     </td>
   </tr>
 </table>
@@ -95,14 +95,14 @@ Status:       Building, Competing & Open for Opportunities
 
 ---
 
-## 📈 Activity & Graph Analytics
+## 📈 Analytics & Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maria-aqdas&show_icons=true&theme=copper" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=copper" width="48%" />
 </p>
 
-<!-- ACTIVITY GRAPH WIDGET (BROWN / COPPER THEME) -->
+<!-- BROWN CONTRIBUTION GRAPH WIDGET -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&bg_color=2b1b17&color=d2b48c&line=8b5a2b&point=d2b48c&area=true&hide_border=true" width="98%" />
 </p>
@@ -110,4 +110,4 @@ Status:       Building, Competing & Open for Opportunities
 ---
 
 <!-- BOTTOM WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3d2314&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3D2314&height=120&section=footer" width="100%" />
