@@ -16,7 +16,7 @@
   <a href="https://github.com/maria-aqdas"><img src="https://img.shields.io/badge/PORTFOLIO-2B1B17?style=for-the-badge&logo=google&logoColor=D2B48C" /></a>
 </p>
 
-<!-- PROFILE VISITORS & FOLLOWERS -->
+<!-- PROFILE VISITORS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maria-aqdas&color=8B5A2B&style=flat-square&label=Profile+Visitors" alt="Profile Visitors" />
 </p>
@@ -27,7 +27,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="65%">
       <pre>
 <code>
 name:         Maria Aqdas
@@ -40,8 +40,8 @@ status:       Always learning, always building
 </code>
       </pre>
     </td>
-    <td width="40%" align="center">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--girl-programmer-coding-woman-pack-design-development-illustrations-6430776.png" width="90%" alt="Female Developer Illustration" />
+    <td width="35%" align="center">
+      <img src="https://octodex.github.com/images/codercat.jpg" width="85%" style="border-radius:10px;" alt="Developer Coder Cat" />
     </td>
   </tr>
 </table>
@@ -58,7 +58,7 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="65%">
       🎓 <b>BS Data Science</b> student<br/>
       🤖 Exploring <b>Machine Learning & AI</b><br/>
       💡 Interested in <b>data-driven solutions</b><br/>
@@ -68,8 +68,8 @@ Curious about how data and algorithms can shape intelligent systems, I document 
       🎯 Goal: Become a <b>Data Scientist / ML Engineer</b><br/>
       ⚡ Fun fact: I debug with <b>print statements</b> and no regrets
     </td>
-    <td width="40%" align="center">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--girl-coding-programmer-female-pack-design-development-illustrations-6430776.png" width="85%" alt="Coded Workspace Girl" />
+    <td width="35%" align="center">
+      <img src="https://octodex.github.com/images/class-act.png" width="80%" alt="Developer Illustration" />
     </td>
   </tr>
 </table>
@@ -136,9 +136,9 @@ Curious about how data and algorithms can shape intelligent systems, I document 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=copper" width="48%" />
 </p>
 
-<!-- GOLDEN LINE ACTIVITY GRAPH -->
+<!-- GOLDEN / BROWN ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&theme=copper&area=true&hide_border=true" width="98%" alt="Maria's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&bg_color=2b1b17&color=d2b48c&line=8b5a2b&point=d2b48c&area=true&hide_border=true" width="98%" alt="Maria's Activity Graph" />
 </p>
 
 ---
@@ -157,8 +157,9 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 
 ## ❖ Dev Quote of the Day
 
+<!-- FORCED BROWN/GOLD COLOR THEME -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=copper" alt="Dev Quote of the Day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=copper&bg_color=2b1b17&color=d2b48c&quote_color=d2b48c&author_color=8b5a2b" alt="Dev Quote of the Day" />
 </p>
 
 ---
@@ -177,5 +178,5 @@ Curious about how data and algorithms can shape intelligent systems, I document 
 
 <br/>
 
-<!-- BOTTOM FOOTER -->
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3D2314&height=120&section=footer&text=Keep%20Building.%20Keep%20Growing.&fontSize=22&fontColor=D2B48C" width="100%" />
