@@ -53,19 +53,18 @@
 - 📊 **[Foundations: Data, Data, Everywhere](https://drive.google.com/file/d/1T5ZrJWMjHTB4rV8Oxa70gSAUwI-MUYJ4/view?usp=sharing)** – *Google Digital Academy* (Credential ID: `5FV9ZMYXGLKU`)
 - 🐍 **[Programming for Everybody (Getting Started with Python)](https://drive.google.com/file/d/1gHYiZ_OlguhXbwetbA72TWztDzZhCcia/view?usp=sharing)** – *University of Michigan* (Credential ID: `O8RLHXBSRTPO`)
 
----
 ## 📈 GitHub Report
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maria-aqdas&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=maria-aqdas&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
