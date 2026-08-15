@@ -54,19 +54,18 @@
 - 🐍 **[Programming for Everybody (Getting Started with Python)](https://drive.google.com/file/d/1gHYiZ_OlguhXbwetbA72TWztDzZhCcia/view?usp=sharing)** – *University of Michigan* (Credential ID: `O8RLHXBSRTPO`)
 
 ---
-
 ## 📈 GitHub Report
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maria-aqdas&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=maria-aqdas&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -76,8 +75,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maria-aqdas&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
-
----
 
 ## Let's Connect 🤝
 
