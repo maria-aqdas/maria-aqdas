@@ -57,15 +57,15 @@
 ## 📈 GitHub Report
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=maria-aqdas&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=maria-aqdas&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -75,7 +75,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maria-aqdas&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
-
 ## Let's Connect 🤝
 
 - 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/maria-aqdas-58171a347/)
