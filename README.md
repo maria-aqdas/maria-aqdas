@@ -49,3 +49,42 @@
 </p>
 
 </div>
+
+<div align="center">
+
+  <!-- Main Banner -->
+  <img src="banner.png" alt="Maria Aqdas" width="100%" />
+
+  <br><br>
+
+  <!-- Female Coder Animation -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="360" alt="Coding Girl" />
+
+  <br>
+
+  <!-- Typing Headline -->
+  <h2 style="color: #38bdf8;">Turning Raw Data into Intelligence</h2>
+
+  <!-- Description -->
+  <p>
+    BS Data Science Student at Virtual University of Pakistan. Passionate about machine learning, generative models, and converting raw datasets into actionable intelligence.
+  </p>
+
+  <br>
+
+  <!-- Social Badges -->
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/your-username"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LABLAB.AI-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+  <br><br>
+
+  <!-- Profile Counters -->
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Visitors&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square&color=0e75b6" />
+  <img src="https://img.shields.io/badge/LinkedIn-14.9k%20followers-0077b5?style=flat-square" />
+
+</div>
