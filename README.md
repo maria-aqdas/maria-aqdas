@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&width=600&lines=Transforming+Raw+Data+into+Insights+%F0%9F%93%8A;Finding+Patterns+in+Chaos+%F0%9F%A7%A0;Python+%26+ML+Enthusiast+%F0%9F%90%8D;Solving+Logic+Puzzles+%26+Hackathons+%F0%9F%92%BB" alt="Typing SVG" />
 </p> 
-
+ 
 ---
 
 ## 🚀 About Me
