@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maria-aqdas&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="Profile Visitors" />
   <img src="https://img.shields.io/github/followers/maria-aqdas?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/LinkedIn-14.9k%20followers-0A66C2?style=flat-square" alt="LinkedIn Followers" />
 </p>
 
 <!-- Coder Animation -->
