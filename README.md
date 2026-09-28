@@ -1,6 +1,6 @@
 <!-- Top Waving Dynamic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,56,41,188,247&height=220&section=header&text=Maria%20Aqdas&fontSize=54&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Kaggle%20Expert%20%E2%80%A2%20GenAI%20Trainer&descAlignY=58&descSize=18&stroke=36bcf7&strokeWidth=1" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,56,41,188,247&height=220&section=header&text=Maria%20Aqdas&fontSize=54&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Kaggle%20Expert%20%E2%80%A2%20GenAI%20Trainer&descAlignY=58&descSize=18&stroke=36bcf7&strokeWidth=1" width="100%" alt="Header Banner" /> 
 </p>
 
 <!-- Working Typing Dynamic Headline (خودکار ٹائپنگ اور ایریزنگ اینیمیشن) -->
