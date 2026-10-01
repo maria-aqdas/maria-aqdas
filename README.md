@@ -73,11 +73,11 @@
 ## 📈 GitHub Report
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -85,11 +85,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&theme=tokyonight" alt="GitHub Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maria-aqdas&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---
