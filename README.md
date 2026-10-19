@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,56,41,188,247&height=220&section=header&text=Maria%20Aqdas&fontSize=54&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Kaggle%20Expert%20%E2%80%A2%20GenAI%20Trainer&descAlignY=58&descSize=18&stroke=36bcf7&strokeWidth=1" width="100%" alt="Header Banner" /> 
 </p>    
 
-<!-- Working Typing Dynamic Headline (خودکار ٹائپنگ اور ایریزنگ اینیمیشن) -->
+<!-- Working Typing Dynamic Headline (خودکار ٹائپنگ اور ایریزنگ اینیمیشن) -->           
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Scientist+%F0%9F%93%8A;Kaggle+Expert+%F0%9F%8F%86;GenAI+Trainer+%F0%9F%A7%A0;Turning+Raw+Data+into+Intelligence+%E2%9C%A8" alt="Typing SVG" />
 </p>
