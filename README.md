@@ -1,6 +1,7 @@
-<!-- Top Header -->
-<h1 align="center">Hi 👋, I'm Maria Aqdas</h1>
-<h3 align="center">Data Scientist • Kaggle Expert • GenAI Trainer</h3>
+<!-- Top Waving Banner -->
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Header Banner" />
+</p>
 
 <!-- Working Typing Dynamic Headline -->           
 <p align="center">
