@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,56,41,188,247&height=220&section=header&text=Maria%20Aqdas&fontSize=54&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Kaggle%20Expert%20%E2%80%A2%20GenAI%20Trainer&descAlignY=58&descSize=18&stroke=36bcf7&strokeWidth=1" width="100%" alt="Header Banner" /> 
 </p>    
 
-<!-- Working Typing Dynamic Headline (خودکار ٹائپنگ اور ایریزنگ اینیمیشن) -->           
+<!-- Working Typing Dynamic Headline -->           
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Scientist+%F0%9F%93%8A;Kaggle+Expert+%F0%9F%8F%86;GenAI+Trainer+%F0%9F%A7%A0;Turning+Raw+Data+into+Intelligence+%E2%9C%A8" alt="Typing SVG" />
 </p>
@@ -16,7 +16,7 @@
 
 <!-- Coder Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mirzayasirabdullahbaig07/mirzayasirabdullahbaig07/main/assets/coding.gif" width="460px" alt="Developer Coding" onerror="this.onerror=null;this.src='https://camo.githubusercontent.com/4a0344d5e94b281f69ff9ee7dcfc786be9e5ee965373a25bc2ff4c5c7ce1a5e1/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f37343033383139302f3232393232333236332d63663265346230372d323631352d346638372d396333382d6533373630306638333831612e676966';" />
+  <img src="https://raw.githubusercontent.com/mirzayasirabdullahbaig07/mirzayasirabdullahbaig07/main/assets/coding.gif" width="460px" alt="Developer Coding" />
 </p>
 
 ---
@@ -73,11 +73,11 @@
 ## 📈 GitHub Report
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-aqdas&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maria-aqdas&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
 
 ---
