@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Header Banner" />
-</p>
-
-<!-- Top Waving Dynamic Banner -->
-<p align="center">                                                  
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=24,14,56,41,188,247&height=220&section=header&text=Maria%20Aqdas&fontSize=54&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Kaggle%20Expert%20%E2%80%A2%20GenAI%20Trainer&descAlignY=58&descSize=18&stroke=36bcf7&strokeWidth=1" width="100%" alt="Header Banner" /> 
-</p>    
+<!-- Top Header -->
+<h1 align="center">Hi 👋, I'm Maria Aqdas</h1>
+<h3 align="center">Data Scientist • Kaggle Expert • GenAI Trainer</h3>
 
 <!-- Working Typing Dynamic Headline -->           
 <p align="center">
@@ -88,6 +83,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maria-aqdas&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
+
 ---
 
 ## Let's Connect 🤝
@@ -96,6 +92,3 @@
 - 📬 Open to internships, collaborations, and learning opportunities!
 
 ⭐️ *If you like my journey, feel free to star my repositories!*
-
-<!-- Bottom Wave Animation Spacer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
