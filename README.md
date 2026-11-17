@@ -73,11 +73,8 @@
 ## 📈 GitHub Report
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maria-aqdas&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maria-aqdas&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maria-aqdas&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maria-aqdas&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -87,7 +84,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maria-aqdas&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
-
 ---
 
 ## Let's Connect 🤝
